@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=ASADBEK%20GULOMOV&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+[<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=ASADBEK%20GULOMOV&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>](https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=250&section=header&text=ASADBEK%20GULOMOV&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
 <h3 align="center">
 
@@ -77,3 +77,13 @@ Telegram: https://t.me/Justin_Claberly
 ## 📈 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GulomovAsadbekDev&theme=tokyo-night)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=GulomovAsadbekDev&theme=tokyonight)
+
+## 🧊 3D Contributions
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GulomovAsadbekDev&theme=tokyonight)
+
+
