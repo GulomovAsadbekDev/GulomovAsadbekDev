@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Asadbek Gulomov 👋
 
-<!--
-**GulomovAsadbekDev/GulomovAsadbekDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer  
+🚀 Building Telegram bots, web applications and mobile apps  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- I build Telegram bots
+- I develop modern web applications
+- I create mobile apps
+- Learning cloud technologies
+
+---
+
+## 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- React Native
+- Git & GitHub
+
+---
+
+## 📂 Projects
+Coming soon...
+
+- Telegram Bot Projects
+- Web Applications
+- Mobile Apps
+
+---
+
+## 📫 Contact
+Telegram: https://t.me/yourusername
