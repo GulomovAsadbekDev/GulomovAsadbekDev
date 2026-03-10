@@ -50,12 +50,10 @@
 
 ---
 
-# 👀 Profile Views
+## 👀 Profile Views
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=GulomovAsadbekDev&style=for-the-badge&color=blueviolet"/>
-
+<img src="https://komarev.com/ghpvc/?username=GulomovAsadbekDev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 </p>
 
 ---
