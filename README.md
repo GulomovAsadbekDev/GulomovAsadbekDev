@@ -54,7 +54,7 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=GulomovAsadbekDev&label=Profile%20views&color=blueviolet&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=GulomovAsadbekDev&style=for-the-badge&color=blueviolet"/>
 
 </p>
 
