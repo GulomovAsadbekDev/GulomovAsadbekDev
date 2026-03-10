@@ -74,8 +74,3 @@
 
 Telegram: https://t.me/Justin_Claberly
 
----
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/GulomovAsadbekDev/GulomovAsadbekDev/blob/output/github-contribution-grid-snake.svg)
